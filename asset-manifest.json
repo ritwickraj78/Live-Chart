@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Live-Chart/static/js/main.0896f215.chunk.js",
+    "main.js.map": "/Live-Chart/static/js/main.0896f215.chunk.js.map",
+    "runtime-main.js": "/Live-Chart/static/js/runtime-main.836a5bc6.js",
+    "runtime-main.js.map": "/Live-Chart/static/js/runtime-main.836a5bc6.js.map",
+    "static/js/2.bf8b6feb.chunk.js": "/Live-Chart/static/js/2.bf8b6feb.chunk.js",
+    "static/js/2.bf8b6feb.chunk.js.map": "/Live-Chart/static/js/2.bf8b6feb.chunk.js.map",
+    "index.html": "/Live-Chart/index.html",
+    "precache-manifest.0d574ab16c3357abab39a5a26841f9a9.js": "/Live-Chart/precache-manifest.0d574ab16c3357abab39a5a26841f9a9.js",
+    "service-worker.js": "/Live-Chart/service-worker.js",
+    "static/js/2.bf8b6feb.chunk.js.LICENSE.txt": "/Live-Chart/static/js/2.bf8b6feb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.836a5bc6.js",
+    "static/js/2.bf8b6feb.chunk.js",
+    "static/js/main.0896f215.chunk.js"
+  ]
+}
